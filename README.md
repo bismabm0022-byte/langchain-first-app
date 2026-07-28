@@ -27,6 +27,20 @@ Before getting started, ensure you have the following installed:
 
 ### 1. Clone the Repository
 
-```bash
+bash
 git clone [https://github.com/your-username/langchain-first-app.git](https://github.com/your-username/langchain-first-app.git)
-cd langchain-first-app
+cd lang chain-first-app
+## Create a virtual environment & install packages:
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+pip install -r requirements.txt
+## Configure environment variables:
+Code snippet
+GOOGLE_API_KEY=your_gemini_api_key
+## Launch the application:
+python app.py
+
+
+
+
+
