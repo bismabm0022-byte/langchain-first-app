@@ -1,4 +1,4 @@
-🔗 LangChain First App
+## 🔗Lang Chain First App
 
 A simple starter application demonstrating how to build AI-powered workflows using **LangChain** and Python. This project serves as a minimal boilerplate for initializing model calls, managing prompt templates, and invoking chains/agents.
 
