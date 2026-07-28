@@ -28,7 +28,7 @@ Before getting started, ensure you have the following installed:
 ### 1. Clone the Repository
 
 bash
-git clone [https://github.com/bismamuqadas/langchain-first-app.git](https://github.com/your-username/langchain-first-app.git)
+git clone [[https://github.com/bismamuqadas/langchain-first-app.git](https://github.com/bismabm0022-byte)](https://github.com/your-username/langchain-first-app.git)
 cd lang chain-first-app
 ## Create a virtual environment & install packages:
 python -m venv venv
